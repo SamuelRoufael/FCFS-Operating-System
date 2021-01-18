@@ -45,7 +45,8 @@ and a variable indicating the availability of this resource.
   3. Print data on the screen.
   4. Take text input from the user.
 
-
+## Scheduling
+-First Come First Serve (FCFS): Processes are executed on first come, first serve basis.
 
 
 
