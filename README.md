@@ -16,17 +16,17 @@ OS can create different processes and switch between them in the
 memory. In order to switch between processes, the OS must have information
 about each process such as its state (running, ready ,etc..), and ID. 
 
-### Process 1:
+### 1- Process 1:
 - It should take input from the user: a filename. Then print the content of this file
 on the screen.
-### Process 2:
+### 2- Process 2:
 - It should take two inputs from the user: a filename, and some data. Then write
 the data to the file.
-### Process 3:
+### 3- Process 3:
 - It should count and display to the user the numbers from 0 to 300.
-### Process 4:
+### 4- Process 4:
 - It should count and display to the user the numbers from 500 to 1000.
-### Process 5:
+### 5- Process 5:
 - It should take two inputs from the user: a lower number and a larger number.
 Then count from the lower number to the upper number and write the count to a
 new file.
