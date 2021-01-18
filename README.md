@@ -40,7 +40,7 @@ by using two atomic operations, wait and post that are used for process synchron
 and a variable indicating the availability of this resource.
 
 ### There are 4 semaphores, one for each resource we have:
-  1. Reading data
+  1. Reading data.
   2. Write into file in the disk.
   3. Print data on the screen.
   4. Take text input from the user.
