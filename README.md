@@ -16,17 +16,39 @@ OS can create different processes and switch between them in the
 memory. In order to switch between processes, the OS must have information
 about each process such as its state (running, ready ,etc..), and ID. 
 
-### 1- Process 1:
+**1- Process 1:**
 - It should take input from the user: a filename. Then print the content of this file
 on the screen.
-### 2- Process 2:
+**2- Process 2:**
 - It should take two inputs from the user: a filename, and some data. Then write
 the data to the file.
-### 3- Process 3:
+**3- Process 3:**
 - It should count and display to the user the numbers from 0 to 300.
-### 4- Process 4:
+**4- Process 4:**
 - It should count and display to the user the numbers from 500 to 1000.
-### 5- Process 5:
+**5- Process 5:**
 - It should take two inputs from the user: a lower number and a larger number.
 Then count from the lower number to the upper number and write the count to a
 new file.
+
+## Semaphore
+A semaphore is a variable used to control access to a common resource by multiple
+processes in a concurrent system such as a multi-programming operating system
+by using two atomic operations, wait and post that are used for process synchronization
+and a variable indicating the availability of this resource.
+
+You are required to implement 4 semaphores, one for each resource
+we have:
+1. Reading data
+2. Write into file in the disk.
+3. Print data on the screen.
+4. Take text input from the user.
+
+
+
+
+
+
+
+
+
