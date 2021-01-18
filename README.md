@@ -3,8 +3,7 @@
 
 ## System Calls
   A system call is the programmatic way in which a process requests a service from
-the kernel of the operating system it is executed on. You are required to implement
-system calls of your simulated OS using the built-in functions of Java.
+the kernel of the operating system it is executed on.
 
 **Types of system calls :**
   1. Read the data of any file from the disk.
