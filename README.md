@@ -39,12 +39,11 @@ processes in a concurrent system such as a multi-programming operating system
 by using two atomic operations, wait and post that are used for process synchronization
 and a variable indicating the availability of this resource.
 
-You are required to implement 4 semaphores, one for each resource
-we have:
-1. Reading data
-2. Write into file in the disk.
-3. Print data on the screen.
-4. Take text input from the user.
+### There are 4 semaphores, one for each resource we have:
+  1. Reading data
+  2. Write into file in the disk.
+  3. Print data on the screen.
+  4. Take text input from the user.
 
 
 
